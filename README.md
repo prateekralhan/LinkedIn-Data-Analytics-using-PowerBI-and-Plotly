@@ -12,3 +12,6 @@
 ![3](https://user-images.githubusercontent.com/29462447/97801420-98270980-1c62-11eb-8ddc-5c05a0dd1f00.png)
 
 ## Final PowerBI Dashboard (as of October 2020):
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/97801527-63678200-1c63-11eb-99f7-260c0d4e554a.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/97801527-63678200-1c63-11eb-99f7-260c0d4e554a.png"/> 
+</kbd>

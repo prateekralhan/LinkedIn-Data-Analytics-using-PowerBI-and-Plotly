@@ -15,10 +15,8 @@
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/97801527-63678200-1c63-11eb-99f7-260c0d4e554a.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/97801527-63678200-1c63-11eb-99f7-260c0d4e554a.png"/> 
 </kbd>
-
-
-
-***Switch to the other branch from Master in order to view another dashboard as a part of my LinkedIN Analysis -> This time using Plotly!! *** :smile:
+<br>
+<strong>Switch to the other branch from Master in order to view another dashboard as a part of my LinkedIN Analysis -> This time using Plotly!! </strong> :smile:
 
 ##### Note:
 I haven't attached the Pbix file within the repo due to the presence of sensitive personal data. Simply, **raise an issue** if you want to receive the Pbix template alone :smile:

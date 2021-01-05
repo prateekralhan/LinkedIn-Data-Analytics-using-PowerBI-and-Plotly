@@ -1,0 +1,207 @@
+body{
+padding-top:5px;
+padding-left:5px;
+padding-right:7px;
+padding-bottom:5px;
+background-color:#27293d;
+}
+
+#header{
+background-color:#0A66C2;
+display:flex;
+justify-content:flex-start;
+}
+
+#header-logo{
+display:flex;
+justify-content:center;
+}
+#header-text{
+font-size:26px;
+display:flex;
+align-items:center;
+margin:0 auto;
+font-weight:bold;
+color:#30404D;
+
+}
+
+#mapGraph{
+border: 1.8px solid #32373d;
+border-radius: 3px;
+}
+}
+
+
+.label1{
+font-size:15px;
+font-weight:bold;
+font-family:sans-serif;
+padding-top:8px;
+margin-bottom:3px;
+}
+.label2{
+font-family: sans-serif;
+font-size: 12px;
+
+margin-bottom: -3px;
+}
+.label3{
+font-family: sans-serif;
+font-size: 12px;
+padding-left:20px;
+padding-right:20px;
+
+}
+
+.cardbody1{
+text-align:center;
+height: 140px;
+background-color:#1e1e2e;
+}
+.cardbody2{
+text-align:center;
+line-height:33px;
+background-color:#1e1e2e;
+}
+.linkedinlogo{
+width:32px;
+height:32px;
+}
+
+.githublogo{
+width:32px;
+height:32px;
+}
+
+.gmaillogo{
+width:32px;
+height:32px;
+}
+
+.websitelogo{
+width:32px;
+height:32px;
+}
+
+.connectionLabel{
+margin-bottom:0px;
+color: #ffe0fb;
+font-weight: bold;
+}
+
+.connectionNumber{
+font-size: 40px;
+color: #e04ecb;
+font-weight: bold;
+margin-bottom:0px;
+}
+
+.endorsementLabel{
+padding-left:15px;
+padding-right:15px;
+margin-bottom:0px;
+color: #ffe0fb;
+font-weight: bold;
+}
+
+.endorsementNumber{
+font-size: 40px;
+color: #e04ecb;
+font-weight: bold;
+margin-bottom:0px;
+}
+.recommendationLabel{
+padding-left:15px;
+padding-right:15px;
+margin-bottom:0px;
+color: #ffe0fb;
+font-weight: bold;
+}
+.recommendationNumber{
+font-size: 40px;
+color: #e04ecb;
+font-weight: bold;
+margin-bottom:0px;
+}
+
+
+
+#div123{
+height:365px;
+}
+
+.cardbody3{
+text-align:center;
+line-height:33px;
+background-color:#1e1e2e;
+}
+.cardbody4{
+text-align:center;
+line-height:33px;
+background-color:#1e1e2e;
+}
+
+#invitationGraph{
+height:430px;
+}
+
+.invitationGraphDiv{
+height:365px;
+border: 1.8px solid #1e1e2e;
+border-radius: 3px;
+}
+
+#messageGraph{
+height:430px;sss
+}
+.messageGraphDiv{
+height:365px;
+border: 1.8px solid #1e1e2e;
+border-radius: 3px;
+}
+
+.card2{
+height:35%;
+background-color:#1e1e2e;
+}
+
+.card3{
+height:35%;
+background-color:#1e1e2e;
+}
+
+.card4{
+height:35%;
+background-color:#1e1e2e;
+}
+
+.wordcloudimage{
+position:absolute;
+left:25%;
+top:25%;
+background-color:#1e1e2e;
+}
+
+.wordclouddiv{
+background-color:#1e1e2e;
+}
+
+#wordcloudcolumn
+{
+background-color:#1e1e2e;
+border: 1.8px solid #1e1e2e;
+border-radius: 3px;
+}
+
+.wordgraphLabel{
+color: white;
+font-size: 19px;
+padding-left: 30px;
+padding-top: 30px;
+}
+
+.row2{
+margin-left:3px;
+margin-right:-13px;
+}

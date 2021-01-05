@@ -21,7 +21,7 @@ plt_io.templates['custom_dark']['layout']['xaxis']['gridcolor'] = '#342c47'
 #Analysing the count of sent vs received messages year wise
 dfMessages=pd.read_excel('./data/messages.xlsx')
 dfMessages['DATE'] = pd.DatetimeIndex(dfMessages['DATE']).year
-dfMessagesCount = dfMessages['CONTENT'].count()
+dfMessagesCount = dfMessages['DATE'].count()
 dfMessagesSent=dfMessages[dfMessages['FROM']=='Prateek Ralhan']
 dfMessagesReceived=dfMessages[dfMessages['TO']=='Prateek Ralhan']
 dfMessagesSentCount=dfMessagesSent.groupby(['DATE']).size().reset_index(name="Count")

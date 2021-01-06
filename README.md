@@ -2,6 +2,9 @@
 
 ## Live Web-Application available [here.](https://linkedin-plotly-webapp.herokuapp.com/)
 
+### Troubleshooting:
+* If the live webapp fails to load and gives an ***Application Error***, then try refreshing the URL.
+
 ## Getting the Data:
 
 ### Step 1:
@@ -42,3 +45,4 @@ This will launch the dockerized app. Navigate to ***localhost:8000*** in your br
 ```
 docker ps
 ```
+

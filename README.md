@@ -1,4 +1,4 @@
-# LinkedIn <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> Data Analytics using PowerBI  and Plotly :bar_chart: 
+# LinkedIn <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> Data Analytics using PowerBI  and Plotly :bar_chart: [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ## Live Web-Application available [here.](https://linkedin-plotly-webapp.herokuapp.com/)
 
